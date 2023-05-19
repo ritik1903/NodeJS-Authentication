@@ -21,7 +21,7 @@ This is a Nodejs Authentication  Project which is built using Nodejs, Ejs ,CSS, 
 ### Sign-in Page
 ![image](https://i.postimg.cc/RFKzhZ8D/signin.png)
 ### Reset Password
-![image](https://i.postimg.cc/50wZ1kQc/resetpassword.png)
+![image](https://i.postimg.cc/vH4cvNkz/resetpassword.png)
 .
 ## Available Scripts
 In the project directory, you can run:
