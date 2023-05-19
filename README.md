@@ -12,6 +12,16 @@ This is a Nodejs Authentication  Project which is built using Nodejs, Ejs ,CSS, 
 -User can reset or change password.Enter your name , Enter your old password and Enter new password. The Password store in mongoDB has encrypted  <br/>
 <br/>
 <br/>
+
+## Screenshots
+### Home Page
+![image](https://i.postimg.cc/pLFCg5n4/home.png)
+### Sign-up Page
+![image](https://i.postimg.cc/SNwjtn4n/signup.png)
+### Sign-in Page
+![image](https://i.postimg.cc/RFKzhZ8D/signin.png)
+### Reset Password
+![image](https://i.postimg.cc/50wZ1kQc/resetpassword.png)
 .
 ## Available Scripts
 In the project directory, you can run:
